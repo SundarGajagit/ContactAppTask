@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-30T16:23:28 IST" name="Default suite" finished-at="2023-08-30T16:24:37 IST" duration-ms="68645">
+    <groups>
+    </groups>
+    <test started-at="2023-08-30T16:23:28 IST" name="Default test" finished-at="2023-08-30T16:24:37 IST" duration-ms="68645">
+      <class name="TestCases.Add_Contacts">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:29 IST" name="browserLaunch" finished-at="2023-08-30T16:23:36 IST" duration-ms="7090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="add_all_fields(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:36 IST" name="add_all_fields" data-provider="TestData" finished-at="2023-08-30T16:23:36 IST" duration-ms="527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sundar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sundar@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_all_fields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:36 IST" name="tearDown" finished-at="2023-08-30T16:23:37 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:37 IST" name="browserLaunch" finished-at="2023-08-30T16:23:42 IST" duration-ms="4760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="add_all_fields(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:42 IST" name="add_all_fields" data-provider="TestData" finished-at="2023-08-30T16:23:42 IST" duration-ms="451" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Naga]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[245638.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[naga@yahoo.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_all_fields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:42 IST" name="tearDown" finished-at="2023-08-30T16:23:43 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:43 IST" name="browserLaunch" finished-at="2023-08-30T16:23:47 IST" duration-ms="4688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Name_And_Phone_Only()[pri:2, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:47 IST" name="adding_Name_And_Phone_Only" finished-at="2023-08-30T16:23:48 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Name_And_Phone_Only -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:48 IST" name="tearDown" finished-at="2023-08-30T16:23:48 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:48 IST" name="browserLaunch" finished-at="2023-08-30T16:23:53 IST" duration-ms="4683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Name_And_Email_Only()[pri:3, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:53 IST" name="adding_Name_And_Email_Only" finished-at="2023-08-30T16:23:53 IST" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Name_And_Email_Only -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:53 IST" name="tearDown" finished-at="2023-08-30T16:23:54 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:54 IST" name="browserLaunch" finished-at="2023-08-30T16:23:58 IST" duration-ms="4658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Phone_And_Email_Only()[pri:4, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:58 IST" name="adding_Phone_And_Email_Only" finished-at="2023-08-30T16:23:59 IST" duration-ms="340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Phone_And_Email_Only -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:59 IST" name="tearDown" finished-at="2023-08-30T16:23:59 IST" duration-ms="425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:23:59 IST" name="browserLaunch" finished-at="2023-08-30T16:24:04 IST" duration-ms="4699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Name_Only()[pri:5, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:04 IST" name="adding_Name_Only" finished-at="2023-08-30T16:24:04 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Name_Only -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:04 IST" name="tearDown" finished-at="2023-08-30T16:24:04 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:04 IST" name="browserLaunch" finished-at="2023-08-30T16:24:09 IST" duration-ms="4735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Phone_Only()[pri:6, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:09 IST" name="adding_Phone_Only" finished-at="2023-08-30T16:24:09 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Phone_Only -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:09 IST" name="tearDown" finished-at="2023-08-30T16:24:10 IST" duration-ms="483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:10 IST" name="browserLaunch" finished-at="2023-08-30T16:24:14 IST" duration-ms="4622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Email_Only()[pri:7, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:14 IST" name="adding_Email_Only" finished-at="2023-08-30T16:24:15 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Email_Only -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:15 IST" name="tearDown" finished-at="2023-08-30T16:24:15 IST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:15 IST" name="browserLaunch" finished-at="2023-08-30T16:24:20 IST" duration-ms="4827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_SpecialCharacters_In_Name_Field()[pri:8, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:20 IST" name="adding_SpecialCharacters_In_Name_Field" finished-at="2023-08-30T16:24:20 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_SpecialCharacters_In_Name_Field -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:20 IST" name="tearDown" finished-at="2023-08-30T16:24:21 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:21 IST" name="browserLaunch" finished-at="2023-08-30T16:24:25 IST" duration-ms="4633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_SpecialCharacters_In_Phone_Field()[pri:9, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:25 IST" name="adding_SpecialCharacters_In_Phone_Field" finished-at="2023-08-30T16:24:26 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_SpecialCharacters_In_Phone_Field -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:26 IST" name="tearDown" finished-at="2023-08-30T16:24:26 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:26 IST" name="browserLaunch" finished-at="2023-08-30T16:24:31 IST" duration-ms="4658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="adding_Multiple_Contacts()[pri:10, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:31 IST" name="adding_Multiple_Contacts" finished-at="2023-08-30T16:24:36 IST" duration-ms="5726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_Multiple_Contacts -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.Add_Contacts@20140db9]" started-at="2023-08-30T16:24:36 IST" name="tearDown" finished-at="2023-08-30T16:24:37 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.Add_Contacts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
